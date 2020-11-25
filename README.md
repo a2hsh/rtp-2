@@ -1,2 +1,2 @@
 # rtp-2
-Another test repository for the RTP Course
+أهلاً بكم إلى دورة الطريق إلى البرمجة!
